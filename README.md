@@ -14,7 +14,9 @@
   </a>
 
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge" alt="Open to Work"/>
+  <a href="https://www.linkedin.com/in/marceln911/">
+    <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge" alt="Open to Work"/>
+  </a>
 </p>
 
 ---
@@ -73,7 +75,7 @@ Strengths:     Precision thinking from industrial tech → applied to clean, rel
 - 💬 WhatsApp-based checkout flow — tailored for the Colombian market
 - 📊 Privacy-friendly analytics via **Umami** (self-hosted, GDPR-aware)
 - 📱 Fully responsive, mobile-first design
-- 🚀 Deployed on **Netlify** with custom domain
+- 🚀 Deployed on **Hostinger** with custom domain
 
 **Tech:** `HTML` `CSS` `JavaScript` `Google Drive API` `Netlify` `Umami Analytics`
 
