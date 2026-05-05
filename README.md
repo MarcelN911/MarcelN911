@@ -80,7 +80,7 @@ Strengths:     Precision thinking from industrial tech → applied to clean, rel
 **Tech:** `HTML` `CSS` `JavaScript` `Google Drive API` `Netlify` `Umami Analytics`
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://elixirsb.com/index.html)
-[![Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MarcelN911/elixirsb)
+[![Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MarcelN911/ElixirS-B)
 
 ---
 
