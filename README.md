@@ -135,23 +135,13 @@ Focus:         SaaS Products · E-Commerce · LATAM Market
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcelN911&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Marcel's GitHub Stats" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelN911&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="160"/>
-</p>
-
----
-
 ## 💼 What I'm Looking For
 
 I'm actively seeking roles where my combined background in **electronics engineering** and **web development** adds real value.
 
 - ✅ **Open to:** Junior Web Developer · Frontend Developer · Web Content Manager
 - 🌍 **Markets:** Germany · Remote-first · Latin America
-- 🤝 **Edge:** Fluent in German, English & Spanish — a genuine advantage for international teams or LATAM-focused projects
+- 🤝 **Edge:** Fluent in German, B1 in English & Spanish — a genuine advantage for international teams or LATAM-focused projects
 - 🏭 **Strong fit for:** Industrial tech, IoT, or any environment where engineering precision matters
 
 ---
